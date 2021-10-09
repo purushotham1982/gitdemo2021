@@ -2,3 +2,4 @@ Git practicing commands
 GIt exeprtise
 Git commands
 git fetc command
+git diff command
